@@ -3,7 +3,7 @@ Exemplificação de construção de projetos
 
 Suportada para versão 3 de python. 
 
-[![Build Status](https://app.travis-ci.com/EduardoDsdP/requests.svg?branch=master)](https://app.travis-ci.com/EduardoDsdP/requests)
+[![Build Status](https://app.travis-ci.com/EduardoDsdP/LibPyPR.svg?branch=main)](https://app.travis-ci.com/EduardoDsdP/LibPyPR)
 
 Modulo para exemplificar a construção de projetos Python.
 
