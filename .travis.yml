@@ -6,5 +6,5 @@ python:
   - 3.11.2
 install:
   - pip install -q -r requirements-dev.txt
-scripts:
+script:
   - flake8
