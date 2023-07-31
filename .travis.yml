@@ -1,4 +1,5 @@
 language: python
+os: Windows
 python:
   - 3.10
   - 3.11
