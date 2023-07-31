@@ -1,9 +1,9 @@
 language: python
-os: Windows
 python:
-  - 3.10
-  - 3.11
-  - 3.11.2
+  - "3.10"
+  - "3.11"
+  - "3.11.2"
+os: Windows
 install:
   - pip install -q -r requirements-dev.txt
 script:
