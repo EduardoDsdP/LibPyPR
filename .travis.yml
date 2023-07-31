@@ -1,7 +1,10 @@
 language: python
 python:
-  - 3.10
-install:
-  - pip install -r requirements-dev.txt
-scripts:
+  - "3.10"
+  - "3.11"
+  - "3.11.2"
+os: Windows
+before_install:
+  - pip install -q -r requirements-dev.txt
+script:
   - flake8
